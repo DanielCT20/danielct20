@@ -10,6 +10,13 @@ https://danielct20.github.io/DanielCaso/
 
 </div>
 
+<!-- ![QrPage](qrPage.png) -->
+
+<div align="center">
+  <img src="qrPage.png" align="center"  alt="DanielCaso" width="200" height="200">
+</div
+
+
 ---
 
 ## 📬 Find me at
