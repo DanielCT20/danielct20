@@ -5,7 +5,7 @@ Hi Nice to See You,I am Daniel, people call me Dani. I am a tech enthusiast & an
 
 <div align="center">
 
-https://danielct20.github.io/DanielCaso/
+<!-- https://danielct20.github.io/DanielCaso/ -->
 
 
 </div>
@@ -13,8 +13,10 @@ https://danielct20.github.io/DanielCaso/
 <!-- ![QrPage](qrPage.png) -->
 
 <div align="center">
-  <img src="qrPage.png" align="center"  alt="DanielCaso" width="200" height="200">
-</div
+  <a href="https://danielct20.github.io/DanielCaso/">
+    <img src="qrPage.png" align="center"  alt="DanielCaso" width="200" height="200">
+  </a>
+</div>
 
 
 ---
